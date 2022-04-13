@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+.id{
+    color: coral;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.half_width{
+    width: 40%;
+    float:left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half_width img{
+    width: 100%;
+}
+.oye{
+    text-decoration: none;
+    border: 2px solid tomato;
+    background-color: tomato;
+    color: aliceblue;
+    padding: 3px 1px 3px 1px;
+    border-radius: 3px;
+}
+.top{
+
+    background-image: url(images/back_top.png);
+}
+section{
+    height: 580px; 
+    padding-bottom: 150px; 
+}
+p{
+    color: dimgray;
+}
+#adj{
+    padding-top: 180px;
+}
+.single-experience{
+    box-shadow: 10px 10px 40px gray ;
+    border-radius: 3px;
+    height: 50%;
+}
+#full{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightSalmon,tomato);
+    border-image-slice: 1;
+}
+#baby{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue, cyan);
+    border-image-slice: 1;
+}
+
+
